@@ -1,0 +1,6 @@
+{
+  "name": "Akuntansi Dagang",
+  "description": "Aplikasi akuntansi usaha dagang dengan pencatatan stok barang otomatis dan laporan laba rugi real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
